@@ -1,0 +1,25 @@
+#info {
+	background: #333;
+	color: #fff;
+	text-align: center;
+	padding: 20px;
+}
+#info .contenedor{
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.info-gam {
+
+	margin: 20px;
+}
+
+.info-gam img{
+
+	width : 180;
+	height: 180;
+	border-radius: 50%;
+	border: 7px solid #fff;
+}
